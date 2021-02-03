@@ -21,7 +21,7 @@
 }
 
 .disappear{
-    animation : boom 1s forwards;
+    animation : boom 3s forwards;
 }
 
 @keyframes boom{
